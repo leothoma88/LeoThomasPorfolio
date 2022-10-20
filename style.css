@@ -78,7 +78,7 @@ p {
 /*Header with my picture and backround*/
 #header {
 
-  background-image: url("./peaceful-wallpaper-2048x1536.jpg");
+  background-image: url("images/peaceful-wallpaper-2048x1536.jpg");
   background-size: cover;
   background-color: snow;
 }
@@ -123,7 +123,7 @@ p {
 
 #first_project  {
   align-content: center;
-  width: 90%;
+  width: 100%;
   
 }
 #titleoffirstproject {
@@ -139,9 +139,9 @@ p {
 /*Wording*/
 #aboutmewords {
   text-align: center;
-  margin: 50px auto;
+  margin: 50px;
   color: #2f2f2f;
-  width: 50%;
+  
   font-size: larger;
   background-color: rgba(185, 102, 102, 0.029);
 }
