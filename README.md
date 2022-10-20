@@ -18,9 +18,9 @@
 
 The following image demonstrates the web application's appearance:
 
-![My portfolio page](./Screen%20Shot%202022-07-17%20at%206.53.56%20PM.png)
+![My portfolio page](images/Screen%20Shot%202022-07-17%20at%206.53.56%20PM.png)
 
-![My portfolio page pt 2](./Screen%20Shot%202022-07-17%20at%206.54.15%20PM.png)
+![My portfolio page pt 2](images/Screen%20Shot%202022-07-17%20at%206.54.15%20PM.png)
 
 
 --- 
